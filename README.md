@@ -1,6 +1,6 @@
 # Adding React to Flask Part 2
 
-## Learning Goals
+## Learning Goal
 
 - Use React and Flask together to build beautiful and powerful web applications.
 - Organize client and server code so that it is easy to understand and maintain.
